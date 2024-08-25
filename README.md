@@ -42,4 +42,9 @@ User access to Z with reverse shell, SSH creds
 Escalate Privs to root using SUID bit on nano 
 modify the /etc/passwd file to remove the X.
 
+https://unix.stackexchange.com/questions/76313/change-password-of-a-user-in-etc-shadow
+https://www.redhat.com/sysadmin/suid-sgid-sticky-bit
+https://gtfobins.github.io/gtfobins/nano/#limited-suid
+https://www.kali.org/tools/peass-ng/
+
 Blue Team Perspective
